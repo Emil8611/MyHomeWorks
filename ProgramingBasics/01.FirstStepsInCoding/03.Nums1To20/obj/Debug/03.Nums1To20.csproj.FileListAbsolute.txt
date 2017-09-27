@@ -1,0 +1,5 @@
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\03.Nums1To20\bin\Debug\03.Nums1To20.exe.config
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\03.Nums1To20\bin\Debug\03.Nums1To20.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\03.Nums1To20\bin\Debug\03.Nums1To20.pdb
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\03.Nums1To20\obj\Debug\03.Nums1To20.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\03.Nums1To20\obj\Debug\03.Nums1To20.pdb

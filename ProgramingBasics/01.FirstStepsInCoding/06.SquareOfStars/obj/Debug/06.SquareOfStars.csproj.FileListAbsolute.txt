@@ -1,0 +1,5 @@
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\06.SquareOfStars\bin\Debug\06.SquareOfStars.exe.config
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\06.SquareOfStars\bin\Debug\06.SquareOfStars.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\06.SquareOfStars\bin\Debug\06.SquareOfStars.pdb
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\06.SquareOfStars\obj\Debug\06.SquareOfStars.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\06.SquareOfStars\obj\Debug\06.SquareOfStars.pdb

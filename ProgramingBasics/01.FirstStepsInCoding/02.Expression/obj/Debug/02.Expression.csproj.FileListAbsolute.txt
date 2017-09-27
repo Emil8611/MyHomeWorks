@@ -1,0 +1,5 @@
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\02.Expression\bin\Debug\02.Expression.exe.config
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\02.Expression\bin\Debug\02.Expression.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\02.Expression\bin\Debug\02.Expression.pdb
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\02.Expression\obj\Debug\02.Expression.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\02.Expression\obj\Debug\02.Expression.pdb

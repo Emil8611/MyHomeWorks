@@ -1,0 +1,5 @@
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\05.RectAngleArea\bin\Debug\05.RectAngleArea.exe.config
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\05.RectAngleArea\bin\Debug\05.RectAngleArea.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\05.RectAngleArea\bin\Debug\05.RectAngleArea.pdb
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\05.RectAngleArea\obj\Debug\05.RectAngleArea.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\05.RectAngleArea\obj\Debug\05.RectAngleArea.pdb

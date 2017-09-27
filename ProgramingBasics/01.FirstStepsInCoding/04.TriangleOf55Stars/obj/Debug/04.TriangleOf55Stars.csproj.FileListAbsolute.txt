@@ -1,0 +1,5 @@
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.exe.config
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\04.TriangleOf55Stars\bin\Debug\04.TriangleOf55Stars.pdb
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\04.TriangleOf55Stars\obj\Debug\04.TriangleOf55Stars.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\04.TriangleOf55Stars\obj\Debug\04.TriangleOf55Stars.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudio2017\ProgramBasics\07.AdvancedLoops\01.numbers1NStep3\bin\Debug\01.numbers1NStep3.exe.config
+D:\VisualStudio2017\ProgramBasics\07.AdvancedLoops\01.numbers1NStep3\bin\Debug\01.numbers1NStep3.exe
+D:\VisualStudio2017\ProgramBasics\07.AdvancedLoops\01.numbers1NStep3\bin\Debug\01.numbers1NStep3.pdb
+D:\VisualStudio2017\ProgramBasics\07.AdvancedLoops\01.numbers1NStep3\obj\Debug\01.Numbers1NStep3.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017\ProgramBasics\07.AdvancedLoops\01.numbers1NStep3\obj\Debug\01.numbers1NStep3.exe
+D:\VisualStudio2017\ProgramBasics\07.AdvancedLoops\01.numbers1NStep3\obj\Debug\01.numbers1NStep3.pdb

@@ -1,0 +1,6 @@
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\01.FirstStepsInCoding.exe.config
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\01.FirstStepsInCoding.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\01.FirstStepsInCoding\bin\Debug\01.FirstStepsInCoding.pdb
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\01.FirstStepsInCoding\obj\Debug\01.FirstStepsInCoding.csprojResolveAssemblyReference.cache
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\01.FirstStepsInCoding\obj\Debug\01.FirstStepsInCoding.exe
+D:\VisualStudio2017\ProgramBasics\01.FirstStepsInCoding\01.FirstStepsInCoding\obj\Debug\01.FirstStepsInCoding.pdb
